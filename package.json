@@ -1,0 +1,16 @@
+{
+  "name": "tsx-import-differently",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "run:node": "node ./index.js",
+    "run:tsx": "tsx ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "",
+  "devDependencies": {
+    "eslint": "9.8.0",
+    "globals": "15.9.0",
+    "tsx": "4.16.5"
+  }
+}
